@@ -12,3 +12,6 @@ class mahasiswa {
             cout << "Nilai =" << nilai << endl;
         };
 };
+int main(){
+    mahasiswa mhs1;
+} 
